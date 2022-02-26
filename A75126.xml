@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of a most barbarous and bloody murthre, committed yesterday in Covent-Garden, by Mr. Parry who belong to the play-house on the body of Mr. Henry Arthur, who was lately try'd for robbing the Western Maile.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75126</idno>
+            <idno type="STC">Wing A186A</idno>
+            <idno type="STC">ESTC R43589</idno>
+            <idno type="EEBO-CITATION">42474996</idno>
+            <idno type="OCLC">ocm 42474996</idno>
+            <idno type="VID">151097</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151097)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2243:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of a most barbarous and bloody murthre, committed yesterday in Covent-Garden, by Mr. Parry who belong to the play-house on the body of Mr. Henry Arthur, who was lately try'd for robbing the Western Maile.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas White, near Fleet Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Parry, --  Mr.</term>
+               <term>Arthur, Henry, d. 1699.</term>
+               <term>Murder --  England --  London.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151097:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT Of a moſt Barbarous and Bloody MURTHRE, Committed Yeſterday in <hi>Covent-Garden,</hi> By Mr. <hi>Parry</hi> who belong to the Play-houſe, On the Body of Mr. <hi>Henry Arthur,</hi> who was lately Try'd for Robbing the Weſtern Maile.</head>
+            <head type="sub">
+               <hi>Particularly,</hi> How Differin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about Gaming, came into <hi>Covent-Garden</hi> about 3 of the Clock in the morn<g ref="char:EOLhyphen"/>ing, where after they had given and received of each other, ſeveral dangerous Wounds, mr. <hi>Parry</hi> Stabb'd Mr. <hi>Arthur</hi> in the right Pap above 6 Inches of which wound, he Immediatly Dyed. With an Account of his being Apprehended and carried to the Round-houſe, in order for his Commitment to <hi>Newgate.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>14. Nov. 1699.</date>
+               </dateline>
+            </opener>
+            <p>ON <hi>Sunday</hi> Morning being the 12th of this inſtant <hi>November,</hi> 1699. Mr. <hi>Parry,</hi> who belongs to the Play-houſe in <hi>Lincoln-Inn-Fields,</hi> being in Company with <hi>Henry Arthur,</hi> whoſe Brother was Iately Executed at <hi>Tybarn</hi> for Robbing the Weſtern Mail) I ſay being together at a Tavern near <hi>Covent Garden,</hi> they continued to<g ref="char:EOLhyphen"/>gether till between 3 and 4 of the Clock, at which time Differing about Gam<g ref="char:EOLhyphen"/>ing, they went out together to all appearance in a very Frindly manner; but going over the Square near the Market place<g ref="char:punc">▪</g> ſome words arriſing about a certain Reckoning between them; ſome ſay about dividing a ſum of Money, which in ſhort was agrevated to that Violent de<g ref="char:EOLhyphen"/>gree that they both drew their <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (as we are inform'd) by conſent, at which time ſeve<g ref="char:EOLhyphen"/>ral deſperate Wounds were give<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and received on both ſides, <hi>Arthur</hi> pricking <hi>Parry</hi> in ſeveral places on the Arm, and another dangerous one, on the right Pap; which ſo Encreaſed his Paſſion, that redoubling his Fury, he return'd <hi>Arthur</hi> as many by way of requital, Particula<g ref="char:EOLhyphen"/>rly on the Shoulder, Thigh, left Breſt, and ſeveral other places, among which one upon the right Pap, that extended above 6 Inches ſlope wiſe, it proved ſo Fatal, that he Drop'd down and Dy'd thereof immediatly; at which inſtant the Watch, who had heard the clhaſhing of their Swords came in, and ſeized Mr. <hi>Parry</hi> the Murtherer, who with the great Effuſing of Blood that iſſued from the wounds which the Deceaſed had given him under the right Breſt; was ready to faint, being hardly able to go to the Round-houſe, whither the Watch con<g ref="char:EOLhyphen"/>vey'd both, him and the deceaſed; where was found about them four ſcore Pound in Gold and Silver, befides a very rich Watch in the Pocket of <hi>Henry Arthur;</hi> both which 'tis Conjectured they had Obtain'd by unlawful Purchaſe the Night before: About 5 a clock Mr. <hi>Parry</hi> Wounds were ſearched and dreſs'd by a Skillful Surgeon, who judges that on his right breſt very Dangerous; However as ſoon as he is able he will be carried before a Magiſtrate, and con<g ref="char:EOLhyphen"/>ſequently be Committed to <hi>Newgate</hi> for the ſaid Murther, but laſt night he remain'd in the Round-houſe: Where the Coro ners Inqueſt Sate on the view of his body, when by reaſon, there was no Evidence, but what <hi>Parry</hi> declar'd, and both of them having many Wounds, as well the Surviving Perſon as the Deceaſed, the Jury thereupon brought Mr. <hi>Parry</hi> in guilty of Man Slaughter, and Mr. <hi>White</hi> the Coroner ordered his Committment for the Gate-houſe, from whence 'tis thought he will ſuddainly be removed to <hi>Newgate.</hi>
+            </p>
+            <p>'Tis Eminently remarkable and well worthy obſervation, that Companions in Evil Enter<g ref="char:EOLhyphen"/>priſes, commonly meet with ſad and diſaſterous Fates, and fatal Exit, as is plainly Evident in the unfortunate and untimely Deaths of the two <hi>Arthurs,</hi> and others concern'd with them, as for inſtance the two brethren in Evils, in conjunction with Captain <hi>John Belingham,</hi> Robbed the Weſtern Mail; when being taken, the ſaid <hi>Belingham</hi> became an Evidence againſt them, for which Crime <hi>John Arthur</hi> was Executed, ſince which <hi>Belingham,</hi> was Sworn againſt laſt Seſſions by his own Compaion, and was, alſo Hang'd, and tho' <hi>Henry</hi> eſcaped that ſhameful Death, yet at laſt, when he little thought of it, he was Kill'd by the Sword of his Familier
+<pb facs="tcp:151097:2" rendition="simple:additions"/>Friend; who 'tis thought, has received his mortal Wound from him: So that hereby 'tis no<g ref="char:EOLhyphen"/>toriouſly manifeſt that ſuch unlawful Confederacy's or Societies, tho' they may ſeemingly Flouriſh for a time, yet either ſooner or later they meet with ſad and fatal Conſequences; and that often too by Deſtroying one another.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas White,</hi> near <hi>Fleet-ſtreet,</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
